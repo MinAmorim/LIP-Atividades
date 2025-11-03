@@ -1,0 +1,4 @@
+Erro de aridade: a função foi declarada sem variável de saída.
+Erro de tipo: o operador < compara valores do mesmo tipo. Como a função trabalha 
+com números reais, deve-se comparar com 0.0.
+Além disso, em Oz o sinal negativo é escrito com ~, e deve ser usado corretamente como ~X.
